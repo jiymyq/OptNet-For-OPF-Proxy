@@ -24,10 +24,10 @@ Currently, I'm tidying up the code to make it more readable! This repository wil
 
 ## Citation
 ```
-@article{jia2024two,
-  title={A Two-Stage Approach for Topology Change-Aware Data-Driven OPF},
-  author={Jia, Yixiong and Wu, Xian and Yang, Zhifang and Wang, Yi},
-  journal={IEEE Transactions on Power Systems},
+@article{jia2024optnet,
+  title={OptNet-Embedded Data-Driven Approach for Optimal Power Flow Proxy},
+  author={Jia, Yixiong and Su, Yiqin and Wang, Chenxi and Wang, Yi},
+  journal={IEEE Transactions on Industry Applications},
   year={2024},
   publisher={IEEE}
 }
